@@ -1,5 +1,6 @@
 # AMD-SM2L-2020-21-project
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kidara/AMD-SM2L-2020-21-project/blob/main/Glasses_or_No_Glasses_Project.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
